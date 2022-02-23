@@ -1,0 +1,38 @@
+.homeContainer {
+  overflow-x: hidden;
+  background-color: var(--main-white);
+  .homeContent {
+    padding: 300px;
+    padding-top: 20vh;
+    display: flex;
+    .description {
+      width: 60vw;
+      h1 {
+        font-size: 53px;
+        strong {
+          color: var(--main-pink);
+        }
+      }
+      p {
+        padding-top: 10px;
+        font-size: 15px;
+        color: var(--main-gray);
+      }
+      .button {
+        padding-top: 15px;
+        button {
+          padding-top: 15px;
+          padding-bottom: 15px;
+          padding-right: 30px;
+          padding-left: 30px;
+          color: var(--main-white);
+          background-color: var(--main-pink);
+          border: none;
+        }
+      }
+    }
+    .images {
+      transform: translateY(-20%);
+    }
+  }
+}

@@ -1,0 +1,13 @@
+.navContainer {
+  width: 100%;
+  height: 7vh;
+  background-color: var(--main-white);
+  border-bottom: 2px solid var(--main-light-gray);
+  padding-left: 10vw;
+  .navBar {
+    padding-top: 8px;
+    img {
+      width: 150px;
+    }
+  }
+}

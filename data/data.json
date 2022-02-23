@@ -1,0 +1,80 @@
+{
+    "header": {
+        
+    },
+
+    "home": {
+        "title": "Make",
+        "title2": "business",
+        "title3": " with us & become beautiful",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "button": {
+            "text": "GET STARTED"
+        }
+    },
+
+    "services": {
+        "title": "Services",
+        "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum",
+        "cards": [
+            {
+                "id": "01",
+                "icon": "",
+                "title": "Market Research",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor."
+            },
+            {
+                "id": "02",
+                "icon": "",
+                "title": "Latest Technology",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor."
+            },
+            {
+                "id": "03",
+                "icon": "",
+                "title": "Data Processing",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor."
+            },
+            {
+                "id": "04",
+                "icon": "",
+                "title": "Customer Support",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor."
+            }
+        ]
+    },
+
+    "infos": {
+        "title": "Best Digital Marketing Solution",
+        "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum Lorem ipsum dolor sit amet, hendrerit mel, es vidit eu lorem animal iracundia. Ius te altera essent incorrupte.",
+        "infos": [
+            {
+                "id": "01",
+                "text": "Icon Hendrerit omittantur mel,es vidit eu lorem animal."
+            },
+            {
+                "id": "02",
+                "text": "Icon The best marketing company to boost your web"
+            },
+            {
+                "id": "03",
+                "text": "Icon The Secrets to Successful About Hexan"
+            }
+        ]
+    },
+
+    "contact": {
+        "title": "Contact",
+        "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum",
+        "input": {
+            "placeholder": "Mail"
+        },
+        "button": {
+            "text": "SUBMIT"
+        }
+    },
+
+    "footer": {
+        "text": "© all Rights Reserved by Hexan"
+    }
+}
