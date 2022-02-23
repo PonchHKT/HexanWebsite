@@ -2,13 +2,17 @@
   overflow-x: hidden;
   background-color: var(--main-white);
   .homeContent {
-    padding: 300px;
+    padding: 200px;
     padding-top: 20vh;
+    padding-bottom: 0px;
     display: flex;
     .description {
-      width: 60vw;
+      width: 100vw;
+      margin-right: 30px;
+
       h1 {
         font-size: 53px;
+        width: 40vw;
         strong {
           color: var(--main-pink);
         }

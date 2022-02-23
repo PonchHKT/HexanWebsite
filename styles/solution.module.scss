@@ -1,0 +1,50 @@
+.solutionContainer {
+    padding: 200px;
+    padding-bottom: 300px;
+    padding-right: 0px;
+    display: flex;
+    justify-content: space-between;
+    .solutionTitle {
+        padding-top: 50px;
+        hr {
+            width: 4vw;
+            border: 3px solid var(--main-pink);
+            background-color: var(--main-pink);
+            border-radius: 20px;
+        }
+        h1 {
+            padding-top: 8px;
+            inline-size: 30vw;
+        }
+        p {
+            padding-top: 30px;
+            inline-size: 30vw;
+            color: var(--main-light-gray);
+        }
+        .icons {
+            display: flex;
+            padding-top: 5px;
+            i {
+                font-size: 18px;
+                padding-top: 8px;
+                padding-right: 5px;
+                color: var(--main-pink);
+            }
+            h1 {
+                font-size: 15px;
+                font-weight: normal;
+            }
+        }
+    }
+    .images {
+        background-color: rgb(247, 214, 219);
+        padding-left: 30px;
+        border-top-left-radius: 350px;
+        border-bottom-left-radius: 350px;
+        padding: 70px;
+        width: 50vw;
+        img {
+            width: 100%;
+        }
+    }
+}

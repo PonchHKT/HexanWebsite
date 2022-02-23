@@ -19,25 +19,25 @@
         "cards": [
             {
                 "id": "01",
-                "icon": "",
+                "icon": "seo.svg",
                 "title": "Market Research",
                 "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor."
             },
             {
                 "id": "02",
-                "icon": "",
+                "icon": "technology.svg",
                 "title": "Latest Technology",
                 "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor."
             },
             {
                 "id": "03",
-                "icon": "",
+                "icon": "cloud.svg",
                 "title": "Data Processing",
                 "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor."
             },
             {
                 "id": "04",
-                "icon": "",
+                "icon": "support.svg",
                 "title": "Customer Support",
                 "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor."
             }
@@ -50,15 +50,15 @@
         "infos": [
             {
                 "id": "01",
-                "text": "Icon Hendrerit omittantur mel,es vidit eu lorem animal."
+                "text": "Hendrerit omittantur mel, es vidit eu lorem animal."
             },
             {
                 "id": "02",
-                "text": "Icon The best marketing company to boost your web"
+                "text": "The best marketing company to boost your web"
             },
             {
                 "id": "03",
-                "text": "Icon The Secrets to Successful About Hexan"
+                "text": "The Secrets to Successful About Hexan"
             }
         ]
     },
