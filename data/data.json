@@ -67,7 +67,7 @@
         "title": "Contact",
         "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum",
         "input": {
-            "placeholder": "Mail"
+            "placeholder": "MAIL"
         },
         "button": {
             "text": "SUBMIT"
@@ -75,6 +75,7 @@
     },
 
     "footer": {
-        "text": "© all Rights Reserved by Hexan"
+        "text1": "© all Rights Reserved by",
+        "text2": " Hexan"
     }
 }

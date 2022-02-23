@@ -1,0 +1,49 @@
+.contactContainer {
+    padding: 200px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    .contactTitle {
+        hr {
+            width: 4vw;
+            border: 3px solid var(--main-pink);
+            background-color: var(--main-pink);
+            border-radius: 20px;
+        }
+        h1 {
+            padding-top: 8px;
+        }
+        p {
+            padding-top: 8px;
+            color: var(--main-light-gray);
+        }
+    }
+    .formContainer{
+        padding-top: 50px;
+        form {
+            width: 100%;
+            display: flex;
+            input {
+                padding: 15px;
+                border: 6px solid var(--main-pink);
+                width: 40vw;
+                border-radius: 60px;
+                margin-right: 50px;
+                &::placeholder{
+                    color: black;
+                    font-weight: bold;
+                    padding-left: 10px;
+                    font-size: 15px;
+                }
+            }
+            button {
+                width: 15vw;
+                padding: 20px;
+                border: none;
+                border-radius: 50px;
+                color: white;
+                font-weight: bold;
+                background-color: var(--main-pink)
+            }
+        }
+    }
+}

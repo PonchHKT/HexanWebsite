@@ -6,6 +6,8 @@ import Navbar from "../components/Navbar";
 import HomeLanding from "../components/HomeLanding";
 import Services from "../components/Services";
 import Solution from "../components/Solution";
+import Contact from "../components/Contact";
+import Footer from "../components/Footer";
 
 export default function Home() {
   return (
@@ -14,6 +16,8 @@ export default function Home() {
       <HomeLanding />
       <Services />
       <Solution />
+      <Contact />
+      <Footer />
     </div>
   );
 }
