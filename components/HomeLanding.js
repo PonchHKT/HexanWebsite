@@ -1,4 +1,4 @@
-import data from "../data/home.json";
+import data from "../data/home/home.json";
 import styles from "../styles/homelanding.module.scss";
 
 function HomeLanding() {

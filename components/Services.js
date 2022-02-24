@@ -1,5 +1,5 @@
 import styles from "../styles/services.module.scss";
-import data from "../data/data.json";
+import data from "../data/services/services.json";
 
 function Services() {
   return (

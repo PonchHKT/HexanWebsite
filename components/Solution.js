@@ -1,5 +1,5 @@
 import styles from "../styles/solution.module.scss";
-import data from "../data/data.json";
+import data from "../data/solution/solution.json";
 
 function Solution() {
   return (

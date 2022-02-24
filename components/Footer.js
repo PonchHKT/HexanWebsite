@@ -1,5 +1,5 @@
 import styles from "../styles/footer.module.scss";
-import data from "../data/data.json";
+import data from "../data/footer/footer.json";
 
 function Footer() {
   return (
