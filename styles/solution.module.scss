@@ -94,12 +94,14 @@
       border-top-left-radius: 0px;
       border-bottom-left-radius: 0px;
       padding: 0px;
-      width: 50vw;
+      padding-right: 50px;
+      height: 250px;
       transform: translateX(+40%);
       border-bottom-left-radius: 60px;
       border-bottom-right-radius: 60px;
       img {
-        width: 100%;
+        padding-top: 40px;
+        width: 140%;
       }
     }
   }
