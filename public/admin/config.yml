@@ -19,7 +19,6 @@ collections:
       - { name: title3 }
       - { name: desc }
       - { name: button }
-collections:
   - name: "services"
     label: "Services"
     extension: "json"
@@ -32,7 +31,6 @@ collections:
       - { name: title }
       - { name: desc }
       - { name: cards }
-collections:
   - name: "solution"
     label: "Solutions"
     extension: "json"
@@ -45,7 +43,6 @@ collections:
       - { name: title }
       - { name: desc }
       - { name: infos }
-collections:
   - name: "footer"
     label: "Footer"
     extension: "json"
@@ -57,7 +54,6 @@ collections:
     fields:
       - { name: text1 }
       - { name: text2 }
-collections:
   - name: "contact"
     label: "Contact"
     extension: "json"
