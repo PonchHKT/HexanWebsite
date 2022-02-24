@@ -6,10 +6,10 @@ public_folder: img
 
 collections:
   - name: "home"
-    label: "Pages"
+    label: "Home"
     extension: "json"
     format: "json"
-    folder: data
+    folder: data/home
     slug: "{{slug}}"
     editor:
       preview: false
