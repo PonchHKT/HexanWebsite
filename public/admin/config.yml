@@ -9,7 +9,7 @@ collections:
     label: "Pages"
     extension: "json"
     format: "json"
-    folder: data/home
+    folder: data
     slug: "{{slug}}"
     editor:
       preview: false
