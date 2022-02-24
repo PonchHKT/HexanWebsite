@@ -7,4 +7,4 @@
     "button": {
         "text": "GET STARTED"
         }
-}
+},
