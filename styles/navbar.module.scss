@@ -13,3 +13,21 @@
     }
   }
 }
+
+@media screen and (max-width: 800px) {
+  .navContainer {
+    width: 130%;
+    height: 7vh;
+    background-color: var(--main-white);
+    border-bottom: 2px solid rgb(219, 219, 219, 0.5);
+    padding: 200px;
+    padding-top: 8px;
+    padding-bottom: 0px;
+    .navBar {
+      padding-top: 8px;
+      img {
+        width: 150px;
+      }
+    }
+  }
+}
