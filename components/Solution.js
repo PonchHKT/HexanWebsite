@@ -6,9 +6,9 @@ function Solution() {
     <div className={styles.solutionContainer}>
       <div className={styles.solutionTitle}>
         <hr />
-        <h1>{data.infos.title}</h1>
-        <p>{data.infos.desc}</p>
-        {data.infos.infos.map((x) => {
+        <h1>{data.title}</h1>
+        <p>{data.desc}</p>
+        {data.infos.map((x) => {
           return (
             <div className={styles.icons} key={x.id}>
               <i className="fas fa-check-circle" />

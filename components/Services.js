@@ -6,12 +6,12 @@ function Services() {
     <div className={styles.serviceContainer}>
       <div className={styles.serviceTitle}>
         <hr />
-        <h1>{data.services.title}</h1>
-        <p>{data.services.desc}</p>
+        <h1>{data.title}</h1>
+        <p>{data.desc}</p>
       </div>
 
       <div className={styles.boxContainer}>
-        {data.services.cards.map((x) => {
+        {data.cards.map((x) => {
           return (
             <div className={styles.boxContent} key={x.id}>
               <img src={`/images/${x.icon}`} />

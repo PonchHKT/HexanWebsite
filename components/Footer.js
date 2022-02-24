@@ -11,8 +11,8 @@ function Footer() {
 
       <div className={styles.copyright}>
         <h1>
-          {data.footer.text1}
-          <strong>{data.footer.text2}</strong>
+          {data.text1}
+          <strong>{data.text2}</strong>
         </h1>
       </div>
     </div>

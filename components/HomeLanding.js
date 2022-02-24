@@ -7,13 +7,13 @@ function HomeLanding() {
       <div className={styles.homeContent}>
         <div className={styles.description}>
           <h1>
-            {data.home.title}
-            <strong> {data.home.title2}</strong>
-            {data.home.title3}
+            {data.title}
+            <strong> {data.title2}</strong>
+            {data.title3}
           </h1>
-          <p>{data.home.desc}</p>
+          <p>{data.desc}</p>
           <div className={styles.button}>
-            <button>{data.home.button.text}</button>
+            <button>{data.button.text}</button>
           </div>
         </div>
 

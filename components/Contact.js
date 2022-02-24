@@ -6,14 +6,14 @@ function Contact() {
     <div className={styles.contactContainer}>
       <div className={styles.contactTitle}>
         <hr />
-        <h1>{data.contact.title}</h1>
-        <p>{data.contact.desc}</p>
+        <h1>{data.title}</h1>
+        <p>{data.desc}</p>
       </div>
 
       <div className={styles.formContainer}>
         <form>
-          <input placeholder={data.contact.input.placeholder} />
-          <button>{data.contact.button.text}</button>
+          <input placeholder={data.input.placeholder} />
+          <button>{data.button.text}</button>
         </form>
       </div>
     </div>
