@@ -7,25 +7,16 @@ Everything work well as the responsive, if you would like to check the demo :<br
 
 ## Installation
 
-You need to have nodeJS latest version then run :
+You need to have <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> NodeJS latest version then run :
 
 ```bash
-pip install foobar
+npm i -g
 ```
 
-## Usage
+## How to run build
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+```bash
+npm run dev
 ```
 
 ## Contributing
