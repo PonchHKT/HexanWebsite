@@ -29,7 +29,7 @@ npm run dev
 
 ## 📝 License
 
-Copyright © 2021 [@PonchHKT](https://github.com/PonchHKT)
+Copyright © [@PonchHKT](https://github.com/PonchHKT)
 .<br />
 
 *** 
