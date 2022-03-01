@@ -1,13 +1,13 @@
 # Hexan Website
 
-This is a school project, make this website from a template example.
-I've used NextJS and Sass, implemented NetlifyCMS.
-Everything work well as the responsive, if you would like to check the demo :
-[Hexan]:https://elastic-brown-5a88f2.netlify.app/
+This is a school project, make this website from a template example.<br>
+I've used NextJS and Sass, implemented NetlifyCMS.<br>
+Everything work well as the responsive, if you would like to check the demo :<br>
+[Hexan](https://elastic-brown-5a88f2.netlify.app/)
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+You need to have nodeJS latest version then run :
 
 ```bash
 pip install foobar
