@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/NextJS-12.1.0-blue" /> <img src="https://img.shields.io/badge/Sass-1.49.9-ff69b4" />
 # Hexan Website
 
 This is a school project, make this website from a template example.<br>
