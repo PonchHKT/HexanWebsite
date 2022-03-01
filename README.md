@@ -27,4 +27,10 @@ npm run dev
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://i.ibb.co/7RTSyk6/Capture.png">    |  <img width="2500" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://i.ibb.co/nrkZGz6/Capture1.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://i.ibb.co/r5Vr95K/Capture3.png">|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://i.ibb.co/TLKSv64/Capture4.png">  |
 
+## 📝 License
 
+Copyright © 2021 [@Ponch](https://github.com/PonchHKT)
+.<br />
+
+*** 
+Crafted with ❤️ in Paris
